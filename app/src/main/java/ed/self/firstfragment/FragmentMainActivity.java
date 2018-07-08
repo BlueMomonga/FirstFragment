@@ -3,7 +3,7 @@ package ed.self.firstfragment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-//
+
 public class FragmentMainActivity extends AppCompatActivity {
 
     @Override
